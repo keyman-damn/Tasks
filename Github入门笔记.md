@@ -10,7 +10,7 @@ Github分为网页版和桌面客户端，然后每一个用户可以在网页�
 
 **在客户端中：**
 
-<img src="C:\Users\ALPHA17\AppData\Roaming\Typora\typora-user-images\image-20241106210635136.png" alt="image-20241106210635136" style="zoom: 50%;" />
+<img src="C:/Users/ALPHA17/AppData/Roaming/Typora/typora-user-images/image-20241106210635136.png" alt="image-20241106210635136" style="zoom: 50%;" />
 
 (1).顶端一栏容易理解，其中有很多编辑功能，可以在file中新建Repository;
 
@@ -22,7 +22,7 @@ Github分为网页版和桌面客户端，然后每一个用户可以在网页�
 
 **在网页端中：**
 
-<img src="C:\Users\ALPHA17\AppData\Roaming\Typora\typora-user-images\image-20241106211639944.png" alt="image-20241106211639944" style="zoom:50%;" />
+<img src="C:/Users/ALPHA17/AppData/Roaming/Typora/typora-user-images/image-20241106211639944.png" alt="image-20241106211639944" style="zoom:50%;" />
 
 (4).可以在全网进行资源搜索，在code中进行下载；
 
