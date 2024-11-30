@@ -12,4 +12,4 @@
 
 ### 阶段四：网页复刻
 
-​		[Geek招新网站](https://github.com/keyman-damn/Tasks/blob/main/%E7%BD%91%E9%A1%B5/copy-newthread.html)
+​		[Geek招新网站](https://github.com/keyman-damn/Tasks/blob/main/%E7%BD%91%E9%A1%B5/index.html)
